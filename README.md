@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 # Redis Session Store
 
 [![Build Status](https://travis-ci.org/roidrage/redis-session-store.svg?branch=master)](https://travis-ci.org/roidrage/redis-session-store)
